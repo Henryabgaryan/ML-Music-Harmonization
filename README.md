@@ -1,4 +1,9 @@
 # ML-Music-Harmonization
+
+Melody is the basis for every musical piece. However, a world with only single-melody pieces would be a sad thing to imagine. Classical music through its existence has developed methods for accompanying the melody. One of the common tools is harmonization, which is the process of designating chords to each note of the melody. Chords typically consist of three notes. Our project will discuss the problem of harmonizing a melody: assigning apropriate chords for a given melody or musical phrase. We will feed the machine learning algorithm pieces of classical music after a thorough analysis of which it will be able to deduce the principles of classical harmony and ultimately harmo-nize a given melody. 
+
+
+
 How to run “ML_Project_Clean.ipynb” file on our dataset 
 
 1.	Create new folder with name “a” inside of the bin folder in Google Collab.
